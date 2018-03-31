@@ -100,4 +100,9 @@ ul li{
 	float: left;
 	width: 33%;
 	}
-    
+     #cuerpo{
+        text-align: center;
+        font-family: Gadugi;
+        Color: gray;
+        font-size: 28px;
+     }
